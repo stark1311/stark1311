@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stark1311
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Information Technology and Data Analysis
 - 🌱 I’m currently learning Data Analysis
 - 📫 How to reach me [prajjwal99bose@gmail.com](mailto:prajjwal99bose@gmail.com)
 - ⚡ Fun fact: 
