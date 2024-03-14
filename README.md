@@ -1,4 +1,8 @@
-![logo](https://github.com/stark1311/stark1311/blob/main/github%20banner.gif)
+<p align="center">
+  <img src="https://github.com/stark1311/stark1311/blob/main/github%20banner.gif" width="500">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Prajjwal Bose Munshi</h1>
 <h3 align="center">Mechanical Engineer & A passionate Data Analyst from India</h3>
 
