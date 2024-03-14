@@ -2,10 +2,8 @@
   <img src="https://github.com/stark1311/stark1311/blob/main/github%20banner.gif" style="width:1250px;">
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Prajjwal Bose Munshi</h1>
 <h3 align="center">Mechanical Engineer & A passionate Data Analyst from India</h3>
-
 <img align="right" alt="coding" width="400" src="https://static.gstop-content.com/3343c592-d6c7-4235-a6b7-8e04abe1bef3">
 
 
@@ -23,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/bose_munshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/bose_munshi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prajjwal-bose-munshi-857754241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prajjwal-bose-munshi-857754241/" height="30" width="40" /></a>
+<a href="https://twitter.com/bose_munshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bose_munshi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/prajjwal-bose-munshi-857754241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prajjwal-bose-munshi-857754241/" height="30" width="40" /></a>
 <a href="https://kaggle.com/prajjwalbosemunshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prajjwalbosemunshi" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/prajjwal.bose.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/prajjwal.bose.9" height="30" width="40" /></a>
+<a href="https://fb.com/prajjwal.bose.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prajjwal.bose.9" height="30" width="40" /></a>
 <a href="https://instagram.com/prajjwal_bose_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prajjwal_bose_" height="30" width="40" /></a>
 </p>
 
