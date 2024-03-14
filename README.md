@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/stark1311/stark1311/blob/main/github%20banner.gif" style="width:1250px;">
+  <img src="https://github.com/stark1311/stark1311/blob/main/github%20banner.gif" style="width:750px;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Prajjwal Bose Munshi</h1>
 <h3 align="center">Mechanical Engineer & A passionate Data Analyst from India</h3>
-<img align="right" alt="coding" width="400" src="https://static.gstop-content.com/3343c592-d6c7-4235-a6b7-8e04abe1bef3">
+<img align="right" alt="coding" width="350" src="https://static.gstop-content.com/3343c592-d6c7-4235-a6b7-8e04abe1bef3">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stark1311&label=Profile%20views&color=0e75b6&style=flat" alt="stark1311" /> </p>
